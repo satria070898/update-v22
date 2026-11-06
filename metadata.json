@@ -1,0 +1,6 @@
+{
+  "name": "Money Tracker",
+  "description": "Aplikasi Manajemen Keuangan Pribadi modern berdesain Dark Mode dengan pelacakan transaksi, analisis arus kas, net worth, dan aset utang terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
